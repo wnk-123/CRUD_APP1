@@ -11,6 +11,7 @@ gen### macOS template
 .DS_Store
 .AppleDouble
 .LSOverride
+.properties
 
 # Icon must end with two \r
 Icon
