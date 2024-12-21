@@ -5,13 +5,13 @@
 # IntelliJ project files
 *.idea
 *.iml
+.properties
 out
 gen### macOS template
 # General
 .DS_Store
 .AppleDouble
 .LSOverride
-.properties
 
 # Icon must end with two \r
 Icon
